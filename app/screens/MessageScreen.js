@@ -3,7 +3,7 @@ import { FlatList, StyleSheet, TouchableHighlight, View } from 'react-native';
 
 import ListItem from '../components/ListItem'
 import ListItemSeparator from '../components/ListItemSeparator';
-import Screen from './Screen';
+import Screen from '../components/Screen';
 import listItemDeleteAction from '../components/listItemDeleteAction'
 
 const data = [
